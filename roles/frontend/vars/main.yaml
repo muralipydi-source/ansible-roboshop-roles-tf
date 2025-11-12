@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.backend-{{ env }}.muraliitemp.online
+USER_HOST: user.backend-{{ env }}.muraliitemp.online
+CART_HOST: cart.backend-{{ env }}.muraliitemp.online
+SHIPPING_HOST: shipping.backend-{{ env }}.muraliitemp.online
+PAYMENT_HOST: payment.backend-{{ env }}.muraliitemp.online

@@ -1,0 +1,5 @@
+CART_HOST: cart.backend-{{ env }}.muraliitemp.online
+USER_HOST: user.backend-{{ env }}.muraliitemp.online
+RABBITMQ_HOST: rabbitmq-{{ env }}.muraliitemp.online
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123
